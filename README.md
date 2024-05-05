@@ -6,5 +6,3 @@ A Kotlin | Java | Golang Coder, also interested in other programing languages.
 
 <img src = "https://github-readme-stats.vercel.app/api?username=feellmoose&theme=graywhite&hide=issues"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=feellmoose&layout=compact"/>
-
-Why Java 100%?
