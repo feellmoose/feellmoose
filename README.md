@@ -1,8 +1,9 @@
-### Hi!👋 I am feellmoose. 
+### Hi there! 👋 I’m feellmoose. 
 
-Hi, I am feellmoose.
+Hi there! I’m feellmoose, but you can call me Phil Mousse.
 
-A Java | Kotlin | Golang Coder, also interested in other programing languages. 
+I'm a passionate coder with experience in Java, Kotlin, Golang, and Python, and I love exploring new programming languages.
+Always keen to learn, collaborate, and dive into new tech!
 
 Here is my personal blog: [feellmoose's blog](http://feellmoose.fun)
 
